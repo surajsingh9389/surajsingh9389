@@ -1,7 +1,6 @@
-<img width="1000" height="500" alt="image" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif" />
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">Welcome to my GitHub profile! Full-Stack Developer(MERN) | Focused on clean code, scalability & problem solving.</h3>
-
+<img align="right" width="500" height="300" alt="image" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsingh9389&label=Profile%20views&color=0e75b6&style=flat" alt="surajsingh9389" /> </p>
 
 - 🌱 **Always learning, always building—currently diving into new technologies.**
