@@ -1,3 +1,4 @@
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/54b97fec-02ed-4cb8-87e5-dba1fd2f1ad4" />
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">Welcome to my GitHub profile! Full-Stack Developer(MERN) | Focused on clean code, scalability & problem solving.</h3>
 
