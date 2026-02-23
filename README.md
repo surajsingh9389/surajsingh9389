@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack, DSA and OOPs.**
 
-- 📫 How to reach me **sk9389623488@gmail.com**
+- 📫 How to reach me **surajs07055@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/surajsingh9389/](https://www.linkedin.com/in/surajsingh9389/)
 
