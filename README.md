@@ -5,7 +5,7 @@
 
 - 🌱 **Always learning, always building—currently diving into new technologies.**
 
-- 💬 Ask me about **MERN stack, DSA and OOPs.**
+- 💬 Modern Developer: Emphasize **generative AI integration, RAG pipelines, MERN Stack, and DSA**.
 
 - 📫 How to reach me **surajs07055@gmail.com**
 
